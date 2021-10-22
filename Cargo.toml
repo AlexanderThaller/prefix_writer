@@ -2,7 +2,14 @@
 name = "prefix_writer"
 version = "0.1.0"
 edition = "2021"
+
+authors = ["Alexander Thaller <alexander@thaller.ws>"]
 description = "Crate for a writer that can prefix text that contains mulptiple lines or incomplete lines."
+documentation = "https://docs.rs/prefix_writer/"
+homepage = "https://github.com/AlexanderThaller/prefix_writer"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/AlexanderThaller/prefix_writer"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
