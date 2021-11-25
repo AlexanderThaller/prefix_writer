@@ -1,6 +1,6 @@
 [package]
 name = "prefix_writer"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 authors = ["Alexander Thaller <alexander@thaller.ws>"]
@@ -17,5 +17,5 @@ repository = "https://github.com/AlexanderThaller/prefix_writer"
 
 [dev-dependencies]
 const_format = "0.2"
-pretty_assertions = "0.7"
+pretty_assertions = "1"
 rand = "0.8"
