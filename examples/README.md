@@ -10,5 +10,6 @@ Prefix a `stdout` writer.
 
 ```shell
 $ cargo run --example basic
-# todo: output here
+basic-example: I am prefixed
+
 ```
